@@ -20,7 +20,7 @@ function Orange() {
                     <Button style={{color:"#fff", backgroundColor:"#febd2f", width:"35%"}}><b>Show Products</b></Button>
                 </div>
                 <div className='orangeEffect'>
-                   <a href='#'> <img src='./GroceryImg/Orange.png'/></a>
+                   <a href='#'> <img src='./GroceryImg/orange.png'/></a>
                 </div>
             </div>
             </Box>
